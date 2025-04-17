@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "926372821904",
+    "firebase_url": "https://tampinha-legal-5cca8.firebaseio.com",
+    "project_id": "tampinha-legal-5cca8",
+    "storage_bucket": "tampinha-legal-5cca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926372821904:android:f3a3c24ae533267f505115",
+        "android_client_info": {
+          "package_name": "com.oneplanet.admtampinhalegal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926372821904-di3d9jouu7qj3o3s1ceh2dmj33u3fum1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCihP6hWj36uHTn8aYqxYMUQ3A_y9u33_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926372821904-di3d9jouu7qj3o3s1ceh2dmj33u3fum1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926372821904-sral7rit3fo02sils1dtvoufb16s8nrv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oneplanet.tampinhalegal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926372821904:android:a290af0ccf6a3551505115",
+        "android_client_info": {
+          "package_name": "com.oneplanet.tampinhalegal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926372821904-di3d9jouu7qj3o3s1ceh2dmj33u3fum1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCihP6hWj36uHTn8aYqxYMUQ3A_y9u33_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926372821904-di3d9jouu7qj3o3s1ceh2dmj33u3fum1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926372821904-sral7rit3fo02sils1dtvoufb16s8nrv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oneplanet.tampinhalegal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
